@@ -1,0 +1,12 @@
+D:\AbdurahmanovAlik\РазработкаПрограммныхМодулей\BazaDannyh\BazaDannyh\bin\Debug\Database1.mdf
+D:\AbdurahmanovAlik\РазработкаПрограммныхМодулей\BazaDannyh\BazaDannyh\bin\Debug\Database1_log.ldf
+D:\AbdurahmanovAlik\РазработкаПрограммныхМодулей\BazaDannyh\BazaDannyh\bin\Debug\BazaDannyh.exe.config
+D:\AbdurahmanovAlik\РазработкаПрограммныхМодулей\BazaDannyh\BazaDannyh\bin\Debug\BazaDannyh.exe
+D:\AbdurahmanovAlik\РазработкаПрограммныхМодулей\BazaDannyh\BazaDannyh\bin\Debug\BazaDannyh.pdb
+D:\AbdurahmanovAlik\РазработкаПрограммныхМодулей\BazaDannyh\BazaDannyh\obj\Debug\BazaDannyh.csproj.AssemblyReference.cache
+D:\AbdurahmanovAlik\РазработкаПрограммныхМодулей\BazaDannyh\BazaDannyh\obj\Debug\BazaDannyh.Form1.resources
+D:\AbdurahmanovAlik\РазработкаПрограммныхМодулей\BazaDannyh\BazaDannyh\obj\Debug\BazaDannyh.Properties.Resources.resources
+D:\AbdurahmanovAlik\РазработкаПрограммныхМодулей\BazaDannyh\BazaDannyh\obj\Debug\BazaDannyh.csproj.GenerateResource.cache
+D:\AbdurahmanovAlik\РазработкаПрограммныхМодулей\BazaDannyh\BazaDannyh\obj\Debug\BazaDannyh.csproj.CoreCompileInputs.cache
+D:\AbdurahmanovAlik\РазработкаПрограммныхМодулей\BazaDannyh\BazaDannyh\obj\Debug\BazaDannyh.exe
+D:\AbdurahmanovAlik\РазработкаПрограммныхМодулей\BazaDannyh\BazaDannyh\obj\Debug\BazaDannyh.pdb

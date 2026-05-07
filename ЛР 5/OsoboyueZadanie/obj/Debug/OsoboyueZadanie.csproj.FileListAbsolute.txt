@@ -1,0 +1,10 @@
+D:\Abdurahmanov Alik\RazrabotkaProgrammModuley\OsoboyueZadanie\obj\Debug\OsoboyueZadanie.csproj.AssemblyReference.cache
+D:\Abdurahmanov Alik\RazrabotkaProgrammModuley\OsoboyueZadanie\obj\Debug\Особое_задание.Form1.resources
+D:\Abdurahmanov Alik\RazrabotkaProgrammModuley\OsoboyueZadanie\obj\Debug\OsoboyueZadanie.Properties.Resources.resources
+D:\Abdurahmanov Alik\RazrabotkaProgrammModuley\OsoboyueZadanie\obj\Debug\OsoboyueZadanie.csproj.GenerateResource.cache
+D:\Abdurahmanov Alik\RazrabotkaProgrammModuley\OsoboyueZadanie\obj\Debug\OsoboyueZadanie.csproj.CoreCompileInputs.cache
+D:\Abdurahmanov Alik\RazrabotkaProgrammModuley\OsoboyueZadanie\bin\Debug\OsoboyueZadanie.exe.config
+D:\Abdurahmanov Alik\RazrabotkaProgrammModuley\OsoboyueZadanie\bin\Debug\OsoboyueZadanie.exe
+D:\Abdurahmanov Alik\RazrabotkaProgrammModuley\OsoboyueZadanie\bin\Debug\OsoboyueZadanie.pdb
+D:\Abdurahmanov Alik\RazrabotkaProgrammModuley\OsoboyueZadanie\obj\Debug\OsoboyueZadanie.exe
+D:\Abdurahmanov Alik\RazrabotkaProgrammModuley\OsoboyueZadanie\obj\Debug\OsoboyueZadanie.pdb
